@@ -1,0 +1,5 @@
+name: WhichFirst
+version: 1.0.1
+author: Affinity
+main: me.affinity.WhichFirst.Main
+description: answers the question of which came first
